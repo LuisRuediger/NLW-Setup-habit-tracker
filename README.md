@@ -14,9 +14,9 @@ Aplicação WEB:
 ---
 ## Funcionalidades
 
-- [x] Exemplo 1
-- [x] Exemplo 2
-- [x] Exemplo 3
+- [x] Modal de criação de hábito
+- [x] Popover de detalhes dos hábitos de cada dia
+- [x] Progress bar no quadrado de hábito
 
 ---
 
