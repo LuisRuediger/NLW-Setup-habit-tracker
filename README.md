@@ -1,4 +1,4 @@
-# Habit tracker <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge"/>
+# Habit tracker <img align="right" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-lightgrey"/>
 
 Desenvolvido durante o evento NLW Setup da Rocketseat <br/>
 > Para ver o projeto rodando você pode acessar este [Link](link.com.br).
